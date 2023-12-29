@@ -1,0 +1,7 @@
+syntax = "proto3";
+package audio_router;
+
+message Test {
+  string test_s = 1;
+  int32 test_i = 2;
+}
